@@ -1,0 +1,5 @@
+com\example\online_learning_management_system\Model\Course.class
+com\example\online_learning_management_system\OnlineLearningManagementSystemApplication.class
+com\example\online_learning_management_system\Controller\CourseController.class
+com\example\online_learning_management_system\Repository\CourseRepository.class
+com\example\online_learning_management_system\Service\CourseService.class
